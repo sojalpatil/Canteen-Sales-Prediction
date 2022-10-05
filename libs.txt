@@ -1,0 +1,1 @@
+pip install pandas numpy seaborn matplotlib Klib dtale scikit-learn joblib pandas-profiling
